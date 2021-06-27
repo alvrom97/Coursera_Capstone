@@ -1,0 +1,2 @@
+The source:
+	The Seville city hall have digital resources of their spatial planning. You can download .kml archives with the district and neighbourhoods of the city. They can be transformed into .csv files easily to work with pandas library. With the coordinates and Foursquare we will get the information of each place and build a k-means clustering algorithm to determinate how similar the neighbourhoods are.
