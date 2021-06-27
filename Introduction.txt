@@ -1,8 +1,13 @@
 The place
 
-The city of Seville (Andalusia, Spain) is well know by its gastronomy. You can have a good glass of wine and a tapa anywhere. Seville is divided by the Guadalquivir River. Most of the city is on the east side of the river, while Triana, La Cartuja and Los Remedios are on the west side. Triana is the oldest neighbourhood of the west bank of the river and it is very different from the Ancient District. 
+The city of Seville (Andalusia, Spain) is well know by its gastronomy. You can have a good glass of wine 
+and a tapa anywhere. Seville is divided by the Guadalquivir River. Most of the city is on the east side of 
+the river, while Triana, La Cartuja and Los Remedios are on the west side. Triana is the oldest neighbourhood
+of the west bank of the river and it is very different from the Ancient District. 
 
 
 The problem
 
-The owner of a bar in Triana wants to open another business on the other side of the river, but does not know which area may be the best. He thinks that all the neighbourhoods are similar but, the more similar it is, the easier it will be for their bar to succeed.
+The owner of a bar in Triana wants to open another business on the other side of the river, but does not know 
+which area may be the best. He thinks that all the neighbourhoods are similar but, the more similar it is,
+the easier it will be for their bar to succeed.
